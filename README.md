@@ -1,6 +1,6 @@
-# Datica HIPAA Compliance Policies
+# Consensus Networks HIPAA Compliance Policies
 
-HIPAA compliance is complicated, but it doesn't have to be. Datica helps relieve the technical burden with our HIPAA-compliant cloud computing platform and solutions for healthcare.
+HIPAA compliance is complicated, but it doesn't have to be. Consensus Networks helps relieve the technical burden with our HIPAA-compliant population health data toolkit, HealthNet.
 
 In an effort to make compliance as easy as possible for companies working with protected health information (PHI), we decided to open source our company policies.
 
@@ -10,7 +10,7 @@ Do you handle PHI and not yet have your own company policies in place? Then you'
 
 ## Why did we open source these policies?
 
-HIPAA compliance really has two halves. The first half includes all technical guidelines, both physical and digital. Compliant companies take measures to secure their hardware and manage their software in a certain way. Encryption, logging, monitoring—these are just a few examples of HIPAA technical requirements. Datica builds its platform with these guidelines in mind.
+HIPAA compliance really has two halves. The first half includes all technical guidelines, both physical and digital. Compliant companies take measures to secure their hardware and manage their software in a certain way. Encryption, logging, monitoring—these are just a few examples of HIPAA technical requirements. Consensus Networks builds its platform with these guidelines in mind.
 
 The second half of HIPAA is focused on administrative and organizational activities. This includes signing Business Associate Agreements (BAAs), and managing company policies like training, among other things. Crafting company policies that align with HIPAA administrative guidelines are straightforward, but an immense burden.
 
@@ -23,7 +23,7 @@ By open sourcing our own company policies, we hope other companies who handle PH
 As a company who handles PHI, it's critical you maintain and publish your own policies. To make use of our policies, we recommend the following steps.
 
 1. Read through all the enclosed policies to get an understanding to the structure.
-2. When ready, download the policies and comb through for mentions of Datica or our business and change to appropriate references to your company.
+2. When ready, download the policies and comb through for mentions of Consensus Networks or our business and change to appropriate references to your company.
 3. Publish your policies in a publicly available location. The files are markdown, so you may need to convert to HTML if you don't have a publishing platform capable of markdown format. You can either create an index page linking to each individual policy, or create a single page listing all the policies in line, [much like we did](https://policy.datica.com).
 
 ## Who is behind this?
