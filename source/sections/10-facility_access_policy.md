@@ -2,7 +2,7 @@
 
 Consensus Networks works with Subcontractors to assure restriction of physical access to systems used as part of HealthNet. Consensus networks and its Subcontractors control access to the physical buildings/facilities that house these systems/applications, or in which Consensus Networks workforce members operate, in accordance to the HIPAA Security Rule 164.310 and its implementation specifications. Physical Access to all of Consensus Networks facilities is limited to only those authorized in this policy. In an effort to safeguard ePHI from unauthorized access, tampering, and theft, access is allowed to areas only to those persons authorized to be in them and with escorts for unauthorized persons. All workforce members are responsible for reporting an incident of unauthorized visitor and/or unauthorized access to Consensus Networks' facility.
 
-Of note, Consensus Networks does not have ready access to ePHI, it provides cloud-based, compliant data sharing tools and infrastructure to covered entities and business associates. Datica does not physically house any systems used by HealthNet in Consensus Networks facilities. Physical security of our HealthNet servers is outlined [in §1.4](#1.4-datica-organizational-concepts).
+Of note, Consensus Networks does not have ready access to ePHI, it provides cloud-based, compliant data sharing tools and infrastructure to covered entities and business associates. Consensus networks does not physically house any systems used by HealthNet in Consensus Networks facilities. Physical security of our HealthNet servers is outlined [in §1.4](#1.4-datica-organizational-concepts).
 
 ## 10.1 Applicable Standards
 
