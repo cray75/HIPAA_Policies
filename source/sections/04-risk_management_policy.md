@@ -1,6 +1,6 @@
 # 4. Risk Management Policy
 
-This policy establishes the scope, objectives, and procedures of Cosnensus Networks's information security risk management process. The risk management process is intended to support and protect the organization and its ability to fulfill its mission.
+This policy establishes the scope, objectives, and procedures of Consensus Networks's information security risk management process. The risk management process is intended to support and protect the organization and its ability to fulfill its mission.
 
 ## 4.1 Applicable Standards
 
@@ -135,7 +135,7 @@ The two principle components of the risk management process - risk assessment an
 
 * Scheduled Basis - an overall risk assessment of Consensus Networks's information system infrastructure will be conducted annually. The assessment process should be completed in a timely fashion so that risk mitigation strategies can be determined and included in the corporate budgeting process.
 * Throughout a System's Development Life Cycle - from the time that a need for a new, untested information system configuration and/or application is identified through the time it is disposed of, ongoing assessments of the potential threats to a system and its vulnerabilities should be undertaken as a part of the maintenance of the system.
-* As Needed - the Security Officer (or other designated employee) or Risk Management Team may call for a full or partial risk assessment in response to changes in business strategies, information technology, information sensitivity, threats, legal liabilities, or other significant factors that affect Datica's Platform.
+* As Needed - the Security Officer (or other designated employee) or Risk Management Team may call for a full or partial risk assessment in response to changes in business strategies, information technology, information sensitivity, threats, legal liabilities, or other significant factors that affect Consensus Network's HealthNet Platform.
 
 ## 4.4 Process Documentation
 
